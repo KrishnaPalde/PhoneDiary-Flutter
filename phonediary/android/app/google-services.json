@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784896842653",
+    "firebase_url": "https://phonediary-6b88a-default-rtdb.firebaseio.com",
+    "project_id": "phonediary-6b88a",
+    "storage_bucket": "phonediary-6b88a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784896842653:android:e99ff642ecf3f9db416d74",
+        "android_client_info": {
+          "package_name": "com.example.phonediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784896842653-bjp8j1muotbjr7k3kab939i70b89glj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAker18Oy03rIVlNpExtK40zhstxM8XpYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784896842653-bjp8j1muotbjr7k3kab939i70b89glj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
