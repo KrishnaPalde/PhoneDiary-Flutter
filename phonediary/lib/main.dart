@@ -7,19 +7,19 @@ import 'package:phonediary/models/fetch_contacts.dart';
 import 'package:phonediary/screens/HomeScreen.dart';
 import 'package:phonediary/screens/LoginScreen.dart';
 import 'package:phonediary/screens/SignupScreen.dart';
+import 'package:phonediary/screens/ViewContact.dart';
 import 'package:provider/provider.dart';
 
-void main() {
-  Firebase.initializeApp();
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(const MyApp());
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatelessWidget {  
   const MyApp({Key? key}) : super(key: key);
-  
   @override
-  Widget build(BuildContext context) {
-    Firebase.initializeApp();
+  Widget build(BuildContext context) {  
     return Platform.isIOS?
      MultiProvider(
       providers: [
@@ -58,6 +58,7 @@ class MyApp extends StatelessWidget {
           HomeScreen.routeName:(context) => HomeScreen(),
           LoginScreen.routeName:(context) => LoginScreen(),
           SignUpScreen.routeName:(context) => SignUpScreen(),
+
         },
          ),
      );

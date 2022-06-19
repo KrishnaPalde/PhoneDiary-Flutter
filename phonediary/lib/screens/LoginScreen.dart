@@ -17,7 +17,7 @@ class LoginScreen extends StatelessWidget {
     FirebaseAuth.instance.authStateChanges().listen((User? user){
       if(user != null)
       {
-        Navigator.of(context).pushNamed(HomeScreen.routeName);
+        Navigator.of(context).pushNamedAndRemoveUntil(HomeScreen.routeName, ((route) => false));
       }
     });
 
