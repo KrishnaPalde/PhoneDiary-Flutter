@@ -21,33 +21,34 @@ Copyright to Krishna Palde
  SCREENSHOTS
 ---------------
 
-1. Login Screen
+### 1.  Login Screen
 
-![Screenshot_1655738037](https://user-images.githubusercontent.com/81459485/174633505-ed0b6a35-f777-4171-a29e-8ff47625d88b.png)
-
-
-
-2. Sign Up Screen
-
-![Screenshot_1655738049](https://user-images.githubusercontent.com/81459485/174633639-f421154d-718d-45d6-ba56-64d2b726c678.png)
+<img width="350" alt="Screenshot 2022-06-14 at 1 57 59 PM" src="https://user-images.githubusercontent.com/81459485/174644064-6d09fd7b-a4c3-496b-8382-204946143f57.png">
 
 
 
-3. Home Screen / View all Contact Screen
+### 2.  Sign Up Screen
 
-![Screenshot_1655738165](https://user-images.githubusercontent.com/81459485/174633754-42455e70-03fd-41b7-8b2d-d5129913bdd8.png)
-
-
-4. View Contact Screen
-
-![Screenshot_1655738178](https://user-images.githubusercontent.com/81459485/174633889-d832a8cf-97df-43f4-b9d3-4df18339f116.png)
+<img width="350" alt="Screenshot 2022-06-14 at 1 57 59 PM" src="https://user-images.githubusercontent.com/81459485/174633639-f421154d-718d-45d6-ba56-64d2b726c678.png">
 
 
-5. Edit Contact Screen
+### 3.  Home Screen / View all Contact Screen
 
-![Screenshot_1655738196](https://user-images.githubusercontent.com/81459485/174633958-6f27542a-6dc6-421c-bc9a-ad9c47d986aa.png)
+<img width="350" alt="Screenshot 2022-06-14 at 1 57 59 PM" src="https://user-images.githubusercontent.com/81459485/174633754-42455e70-03fd-41b7-8b2d-d5129913bdd8.png">
 
-6. Add Contact Screen
 
-![Screenshot_1655738160](https://user-images.githubusercontent.com/81459485/174634035-9057d742-ba32-4fc8-af2f-6084ca7e6170.png)
+### 4.  View Contact Screen
+
+<img width="350" alt="Screenshot 2022-06-14 at 1 57 59 PM" src="https://user-images.githubusercontent.com/81459485/174633889-d832a8cf-97df-43f4-b9d3-4df18339f116.png">
+
+
+### 5.  Edit Contact Screen
+
+<img width="350" alt="Screenshot 2022-06-14 at 1 57 59 PM" src="https://user-images.githubusercontent.com/81459485/174633958-6f27542a-6dc6-421c-bc9a-ad9c47d986aa.png">
+
+
+### 6.  Add Contact Screen
+
+<img width="350" alt="Screenshot 2022-06-14 at 1 57 59 PM" src="https://user-images.githubusercontent.com/81459485/174634035-9057d742-ba32-4fc8-af2f-6084ca7e6170.png">
+
 
