@@ -21,26 +21,33 @@ Copyright to Krishna Palde
  SCREENSHOTS
 ---------------
 
-1. Home Screen
+1. Login Screen
 
-<img width="1440" alt="Screenshot 2022-06-14 at 1 57 59 PM" src="https://user-images.githubusercontent.com/81459485/173533113-21f7a3a3-ff36-4e57-8c5b-2eed3eac2577.png">
-
-
-2. Upload File
-
-<img width="1440" alt="Screenshot 2022-06-14 at 1 58 38 PM" src="https://user-images.githubusercontent.com/81459485/173533181-8d142a4b-6ae7-49e9-8691-68bd23948cd8.png">
+![Screenshot_1655738037](https://user-images.githubusercontent.com/81459485/174633505-ed0b6a35-f777-4171-a29e-8ff47625d88b.png)
 
 
-3. Extracting Text from Image
 
-<img width="1440" alt="Screenshot 2022-06-14 at 1 58 43 PM" src="https://user-images.githubusercontent.com/81459485/173533282-19efe637-c80c-4702-8e8e-cd8fc32b1f6e.png">
+2. Sign Up Screen
 
-
-4. Extracted Text
-
-<img width="1440" alt="Screenshot 2022-06-14 at 1 59 24 PM" src="https://user-images.githubusercontent.com/81459485/173533338-cb52aebd-9590-4094-b9b9-7588280982ee.png">
+![Screenshot_1655738049](https://user-images.githubusercontent.com/81459485/174633639-f421154d-718d-45d6-ba56-64d2b726c678.png)
 
 
-5. Copy Text to clipboard
 
-<img width="1440" alt="Screenshot 2022-06-14 at 1 59 28 PM" src="https://user-images.githubusercontent.com/81459485/173533417-bf7b8301-3bdc-498c-bd11-58c1850984d5.png">
+3. Home Screen / View all Contact Screen
+
+![Screenshot_1655738165](https://user-images.githubusercontent.com/81459485/174633754-42455e70-03fd-41b7-8b2d-d5129913bdd8.png)
+
+
+4. View Contact Screen
+
+![Screenshot_1655738178](https://user-images.githubusercontent.com/81459485/174633889-d832a8cf-97df-43f4-b9d3-4df18339f116.png)
+
+
+5. Edit Contact Screen
+
+![Screenshot_1655738196](https://user-images.githubusercontent.com/81459485/174633958-6f27542a-6dc6-421c-bc9a-ad9c47d986aa.png)
+
+6. Add Contact Screen
+
+![Screenshot_1655738160](https://user-images.githubusercontent.com/81459485/174634035-9057d742-ba32-4fc8-af2f-6084ca7e6170.png)
+
